@@ -5,10 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="access.svg"
    id="svg31"
    version="1.1"
@@ -22,22 +21,22 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
      inkscape:current-layer="svg31"
      inkscape:window-maximized="1"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="36.547069"
      inkscape:cx="32.113677"
      inkscape:zoom="8.796875"
      showgrid="false"
      id="namedview33"
-     inkscape:window-height="1026"
-     inkscape:window-width="1920"
+     inkscape:window-height="1307"
+     inkscape:window-width="2160"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -45,7 +44,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <defs
      id="defs17">
     <linearGradient
@@ -148,14 +148,6 @@
      r="0"
      cy="32.044"
      cx="32.02" />
-  <image
-     id="image27"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAvCAYAAAB6zDPWAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAM+SURB VFiF1ZjbbqswEEUnkJ7//9+W0IfDFpvF2NgmrVRLFsT4sjyemxPxh8rjF+dZf2OR1vHZ+4on34cX Gx37sPcp6beiRgwCP0cGWRHohKeKAF9bVdsjBoDnm5ACnOL/xuft+bR2P4Fb5a5kM1AHfEXEsv3+ 2tqG9XcElhIV5EfsUtUxLwYZ27vau0sLLI+PKuCwqg4ro3PdLalEVdIl2AyQsJlk/8WuEmvsUpU6 CFbghKRxXsLSIDJQwhJ6ssVeG/Qcu6Tdhck7BNpPHoOw9J1e2T4DdEJdsSHVl81F38vfB2CHJdCE d35ziJKbom5LPR6xq4P7Yn8/AWeSzY7aYSjZGd+0iM/paqI2ArpOp7pbMrCS5DxS+Xf3r9Rx9RPU BDAHdJd2cm9XBlaDZkCgOqw21ueWkQlS4PLB1OkqrAPrnbpHo8ki2Bpn1fF5lq3SI/B0LmFpodlm KNmPOOpvxH68JddUWjsNDhksLdTjuyBdGm5sAncDIjjnzgJGCkxY37l0Z0m+R+x6F3FUEc8NtDgh lTOoSiWqwA7LSMJwSFcjQAJPmMdBBfe5VYIutsZJQCU1UOEu/SYgSWoBAbuquIQF9WmVEu1WA5fE A7+pBk8sEhijObOjd6mumCO9/tQkywVXfHOp8J7FcS5ZVl55yFGFLXaO3aIZfWqgJWCOr617CZsN ZqbkfTKXV9pM6SSqpfdaQwmUIDPvkc3VBDkKm+W1KgL9imPs5zH7XF1X8jsXRq+SopIRbUK/6SlK ofYtsBkgc04ZEP20t9XmuZTwiBowMddCgso24bDMxJpLDyxBfTEPlSweurPxzXrb+r9BZljMI7Ko 432oCswrOHYIlgtn9y0t6tFIfV1VHNYF8HY/m+mYS5WuytPGElCX3vZ4A7674484pnnqp6PWPYzG 5nO+3RsIUk9epT2x4c2Woboret2BpW4SVoVXoIh6VHsLbCmD8tSO1xLmwZn3+LFEhjoaAHID4xjB qj/z4KbSqwYEofSy3FTtU9KWJd23YRnvVdyKGRj8G28d3r9Zsq0+Lvu3hDmAnnRNrf0voXsSiczX eqktVvv35Wrs5SR3+me5QWv/Hy0jmx1KvP9c+QZF2uFGXYKO7QAAAABJRU5ErkJggg== "
-     preserveAspectRatio="none"
-     height="50.133"
-     width="45.867"
-     y="13.035"
-     x="9.0667" />
   <path
      id="path29"
      stroke-width="1.5714"

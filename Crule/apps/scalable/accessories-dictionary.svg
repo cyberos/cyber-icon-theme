@@ -34,17 +34,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1644"
-     inkscape:window-height="892"
+     inkscape:window-width="2160"
+     inkscape:window-height="1307"
      id="namedview131"
      showgrid="false"
      inkscape:zoom="5.7421875"
      inkscape:cx="30.201223"
      inkscape:cy="33.160789"
-     inkscape:window-x="513"
-     inkscape:window-y="198"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg129" />
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg129"
+     inkscape:document-rotation="0" />
   <defs
      id="defs51">
     <linearGradient
@@ -80,23 +81,6 @@
          stop-color="#dd4c4b"
          offset="1"
          id="stop21" />
-    </linearGradient>
-    <linearGradient
-       id="l"
-       x1="8.4667"
-       x2="8.4667"
-       y1="-2.9203"
-       y2="19.84"
-       gradientTransform="matrix(.37199 0 0 .37199 9.0211 9.0235)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#ccc"
-         offset="0"
-         id="stop29" />
-      <stop
-         stop-color="#ebebeb"
-         offset="1"
-         id="stop31" />
     </linearGradient>
   </defs>
   <g
@@ -241,40 +225,6 @@
        opacity=".1"
        id="rect87"
        style="fill-opacity:1;fill:#ffffff" />
-  </g>
-  <g
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     id="g121">
-    <g
-       stroke="#000"
-       id="g117">
-      <path
-         d="m4.2853 2.0484h3.1749v8.9957l-1.5875-1.3229-1.5875 1.3229z"
-         opacity=".01"
-         stroke-width="1.0583"
-         id="path109" />
-      <path
-         d="m4.2853 2.0484h3.1749v8.9957l-1.5875-1.3229-1.5875 1.3229z"
-         opacity=".02"
-         stroke-width=".79373"
-         id="path111" />
-      <path
-         d="m4.2853 2.0484h3.1749v8.9957l-1.5875-1.3229-1.5875 1.3229z"
-         opacity=".03"
-         stroke-width=".52916"
-         id="path113" />
-      <path
-         d="m4.2853 2.0484h3.1749v8.9957l-1.5875-1.3229-1.5875 1.3229z"
-         opacity=".04"
-         stroke-width=".26458"
-         id="path115" />
-    </g>
-    <path
-       d="m4.2853 2.0484h3.1749v8.9957l-1.5875-1.3229-1.5875 1.3229z"
-       opacity=".05"
-       stroke-width=".39687"
-       id="path119" />
   </g>
   <path
      d="M 4.2333,1.0318547 H 7.4082 V 10.626755 L 5.8207,9.3038547 4.2332,10.626755 Z"
